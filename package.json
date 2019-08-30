@@ -1,0 +1,35 @@
+{
+  "name": "reddit-minus-mods-analysis",
+  "version": "0.0.1",
+  "description": "Analysis of data from /r/RedditMinusMods",
+  "main": "src/farm.js",
+  "scripts": {
+    "test": "mocha ./test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aphix/reddit-minus-mods-analysis.git"
+  },
+  "keywords": [
+    "reddit",
+    "mods",
+    "farming"
+  ],
+  "author": "/u/Aphix | @AphixJS | Aphix",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/aphix/reddit-minus-mods-analysis/issues"
+  },
+  "homepage": "https://github.com/aphix/reddit-minus-mods-analysis#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "puppeteer": "^1.19.0"
+  },
+  "dependencies": {
+    "@zeit/fetch": "^5.1.0",
+    "async-sema": "^3.0.1",
+    "jquery": "^3.4.1",
+    "p-retry": "^4.1.0",
+    "p-timeout": "^3.1.0"
+  }
+}
