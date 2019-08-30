@@ -1,0 +1,14 @@
+#ignore emacs crap
+*~
+#ignore vim crap
+*.swp
+#ignore tmp
+.tmp/
+.tmp*/
+
+#ignore other crap
+npm-debug.log
+node_modules
+*.sublime-workspace
+security/upgrade_reports_*/*.log
+pm2/.tmp*/*
