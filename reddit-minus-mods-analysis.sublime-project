@@ -9,13 +9,7 @@
 			"folder_exclude_patterns":
 			[
 				"node_modules",
-				"node_modules_*",
-				"coverage",
-				"dist",
-				"dist-es6",
-				"test-dist",
-				"test-es5",
-				"test-es6"
+				"data"
 			],
 			"follow_symlinks": true,
 			"path": "."

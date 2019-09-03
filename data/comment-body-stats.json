@@ -1,0 +1,6662 @@
+{
+  "funny": {
+    "total": 7667,
+    "deletes": 5318,
+    "keeps": 2349,
+    "deletePercent": 69.362
+  },
+  "gifs": {
+    "total": 3463,
+    "deletes": 1654,
+    "keeps": 1809,
+    "deletePercent": 47.762
+  },
+  "todayilearned": {
+    "total": 3372,
+    "deletes": 1689,
+    "keeps": 1683,
+    "deletePercent": 50.089
+  },
+  "mildlyinteresting": {
+    "total": 3242,
+    "deletes": 2169,
+    "keeps": 1073,
+    "deletePercent": 66.903
+  },
+  "gaming": {
+    "total": 3229,
+    "deletes": 1678,
+    "keeps": 1551,
+    "deletePercent": 51.967
+  },
+  "aww": {
+    "total": 3217,
+    "deletes": 1280,
+    "keeps": 1937,
+    "deletePercent": 39.789
+  },
+  "Showerthoughts": {
+    "total": 3190,
+    "deletes": 2553,
+    "keeps": 637,
+    "deletePercent": 80.031
+  },
+  "politics": {
+    "total": 3153,
+    "deletes": 860,
+    "keeps": 2293,
+    "deletePercent": 27.276
+  },
+  "pics": {
+    "total": 3085,
+    "deletes": 811,
+    "keeps": 2274,
+    "deletePercent": 26.288
+  },
+  "BlackPeopleTwitter": {
+    "total": 2053,
+    "deletes": 988,
+    "keeps": 1065,
+    "deletePercent": 48.125
+  },
+  "AdviceAnimals": {
+    "total": 2004,
+    "deletes": 950,
+    "keeps": 1054,
+    "deletePercent": 47.405
+  },
+  "worldnews": {
+    "total": 1751,
+    "deletes": 453,
+    "keeps": 1298,
+    "deletePercent": 25.871
+  },
+  "wholesomememes": {
+    "total": 1641,
+    "deletes": 1154,
+    "keeps": 487,
+    "deletePercent": 70.323
+  },
+  "WTF": {
+    "total": 1619,
+    "deletes": 758,
+    "keeps": 861,
+    "deletePercent": 46.819
+  },
+  "interestingasfuck": {
+    "total": 1462,
+    "deletes": 636,
+    "keeps": 826,
+    "deletePercent": 43.502
+  },
+  "movies": {
+    "total": 1410,
+    "deletes": 763,
+    "keeps": 647,
+    "deletePercent": 54.113
+  },
+  "news": {
+    "total": 1392,
+    "deletes": 303,
+    "keeps": 1089,
+    "deletePercent": 21.767
+  },
+  "The_Donald": {
+    "total": 1362,
+    "deletes": 193,
+    "keeps": 1169,
+    "deletePercent": 14.17
+  },
+  "OldSchoolCool": {
+    "total": 1267,
+    "deletes": 674,
+    "keeps": 593,
+    "deletePercent": 53.197
+  },
+  "me_irl": {
+    "total": 1222,
+    "deletes": 694,
+    "keeps": 528,
+    "deletePercent": 56.792
+  },
+  "science": {
+    "total": 1178,
+    "deletes": 508,
+    "keeps": 670,
+    "deletePercent": 43.124
+  },
+  "LifeProTips": {
+    "total": 1133,
+    "deletes": 900,
+    "keeps": 233,
+    "deletePercent": 79.435
+  },
+  "memes": {
+    "total": 1131,
+    "deletes": 984,
+    "keeps": 147,
+    "deletePercent": 87.003
+  },
+  "videos": {
+    "total": 1087,
+    "deletes": 285,
+    "keeps": 802,
+    "deletePercent": 26.219
+  },
+  "dankmemes": {
+    "total": 1056,
+    "deletes": 671,
+    "keeps": 385,
+    "deletePercent": 63.542
+  },
+  "oddlysatisfying": {
+    "total": 882,
+    "deletes": 377,
+    "keeps": 505,
+    "deletePercent": 42.744
+  },
+  "nottheonion": {
+    "total": 859,
+    "deletes": 551,
+    "keeps": 308,
+    "deletePercent": 64.144
+  },
+  "AskReddit": {
+    "total": 791,
+    "deletes": 305,
+    "keeps": 486,
+    "deletePercent": 38.559
+  },
+  "space": {
+    "total": 737,
+    "deletes": 316,
+    "keeps": 421,
+    "deletePercent": 42.877
+  },
+  "HumansBeingBros": {
+    "total": 701,
+    "deletes": 470,
+    "keeps": 231,
+    "deletePercent": 67.047
+  },
+  "technology": {
+    "total": 687,
+    "deletes": 175,
+    "keeps": 512,
+    "deletePercent": 25.473
+  },
+  "nba": {
+    "total": 680,
+    "deletes": 79,
+    "keeps": 601,
+    "deletePercent": 11.618
+  },
+  "UpliftingNews": {
+    "total": 666,
+    "deletes": 378,
+    "keeps": 288,
+    "deletePercent": 56.757
+  },
+  "Unexpected": {
+    "total": 658,
+    "deletes": 288,
+    "keeps": 370,
+    "deletePercent": 43.769
+  },
+  "SandersForPresident": {
+    "total": 649,
+    "deletes": 145,
+    "keeps": 504,
+    "deletePercent": 22.342
+  },
+  "woahdude": {
+    "total": 639,
+    "deletes": 302,
+    "keeps": 337,
+    "deletePercent": 47.261
+  },
+  "pcmasterrace": {
+    "total": 630,
+    "deletes": 261,
+    "keeps": 369,
+    "deletePercent": 41.429
+  },
+  "MurderedByWords": {
+    "total": 613,
+    "deletes": 484,
+    "keeps": 129,
+    "deletePercent": 78.956
+  },
+  "EarthPorn": {
+    "total": 604,
+    "deletes": 163,
+    "keeps": 441,
+    "deletePercent": 26.987
+  },
+  "NatureIsFuckingLit": {
+    "total": 593,
+    "deletes": 212,
+    "keeps": 381,
+    "deletePercent": 35.75
+  },
+  "Art": {
+    "total": 587,
+    "deletes": 336,
+    "keeps": 251,
+    "deletePercent": 57.24
+  },
+  "sports": {
+    "total": 575,
+    "deletes": 222,
+    "keeps": 353,
+    "deletePercent": 38.609
+  },
+  "CrappyDesign": {
+    "total": 572,
+    "deletes": 373,
+    "keeps": 199,
+    "deletePercent": 65.21
+  },
+  "facepalm": {
+    "total": 535,
+    "deletes": 319,
+    "keeps": 216,
+    "deletePercent": 59.626
+  },
+  "GetMotivated": {
+    "total": 501,
+    "deletes": 285,
+    "keeps": 216,
+    "deletePercent": 56.886
+  },
+  "AnimalsBeingBros": {
+    "total": 499,
+    "deletes": 330,
+    "keeps": 169,
+    "deletePercent": 66.132
+  },
+  "food": {
+    "total": 486,
+    "deletes": 281,
+    "keeps": 205,
+    "deletePercent": 57.819
+  },
+  "StarWars": {
+    "total": 486,
+    "deletes": 206,
+    "keeps": 280,
+    "deletePercent": 42.387
+  },
+  "PrequelMemes": {
+    "total": 465,
+    "deletes": 196,
+    "keeps": 269,
+    "deletePercent": 42.151
+  },
+  "Overwatch": {
+    "total": 463,
+    "deletes": 66,
+    "keeps": 397,
+    "deletePercent": 14.255
+  },
+  "MadeMeSmile": {
+    "total": 455,
+    "deletes": 173,
+    "keeps": 282,
+    "deletePercent": 38.022
+  },
+  "Eyebleach": {
+    "total": 453,
+    "deletes": 161,
+    "keeps": 292,
+    "deletePercent": 35.541
+  },
+  "instant_regret": {
+    "total": 445,
+    "deletes": 256,
+    "keeps": 189,
+    "deletePercent": 57.528
+  },
+  "trees": {
+    "total": 445,
+    "deletes": 299,
+    "keeps": 146,
+    "deletePercent": 67.191
+  },
+  "PoliticalHumor": {
+    "total": 428,
+    "deletes": 91,
+    "keeps": 337,
+    "deletePercent": 21.262
+  },
+  "Tinder": {
+    "total": 412,
+    "deletes": 273,
+    "keeps": 139,
+    "deletePercent": 66.262
+  },
+  "WhitePeopleTwitter": {
+    "total": 402,
+    "deletes": 67,
+    "keeps": 335,
+    "deletePercent": 16.667
+  },
+  "Futurology": {
+    "total": 402,
+    "deletes": 111,
+    "keeps": 291,
+    "deletePercent": 27.612
+  },
+  "nonononoyes": {
+    "total": 401,
+    "deletes": 271,
+    "keeps": 130,
+    "deletePercent": 67.581
+  },
+  "leagueoflegends": {
+    "total": 401,
+    "deletes": 151,
+    "keeps": 250,
+    "deletePercent": 37.656
+  },
+  "mildlyinfuriating": {
+    "total": 399,
+    "deletes": 220,
+    "keeps": 179,
+    "deletePercent": 55.138
+  },
+  "quityourbullshit": {
+    "total": 399,
+    "deletes": 265,
+    "keeps": 134,
+    "deletePercent": 66.416
+  },
+  "soccer": {
+    "total": 395,
+    "deletes": 26,
+    "keeps": 369,
+    "deletePercent": 6.582
+  },
+  "HighQualityGifs": {
+    "total": 392,
+    "deletes": 22,
+    "keeps": 370,
+    "deletePercent": 5.612
+  },
+  "comics": {
+    "total": 390,
+    "deletes": 8,
+    "keeps": 382,
+    "deletePercent": 2.051
+  },
+  "reactiongifs": {
+    "total": 386,
+    "deletes": 107,
+    "keeps": 279,
+    "deletePercent": 27.72
+  },
+  "ProgrammerHumor": {
+    "total": 379,
+    "deletes": 243,
+    "keeps": 136,
+    "deletePercent": 64.116
+  },
+  "BikiniBottomTwitter": {
+    "total": 376,
+    "deletes": 166,
+    "keeps": 210,
+    "deletePercent": 44.149
+  },
+  "Whatcouldgowrong": {
+    "total": 360,
+    "deletes": 165,
+    "keeps": 195,
+    "deletePercent": 45.833
+  },
+  "Jokes": {
+    "total": 359,
+    "deletes": 26,
+    "keeps": 333,
+    "deletePercent": 7.242
+  },
+  "Damnthatsinteresting": {
+    "total": 337,
+    "deletes": 132,
+    "keeps": 205,
+    "deletePercent": 39.169
+  },
+  "madlads": {
+    "total": 330,
+    "deletes": 236,
+    "keeps": 94,
+    "deletePercent": 71.515
+  },
+  "photoshopbattles": {
+    "total": 323,
+    "deletes": 9,
+    "keeps": 314,
+    "deletePercent": 2.786
+  },
+  "ChoosingBeggars": {
+    "total": 320,
+    "deletes": 261,
+    "keeps": 59,
+    "deletePercent": 81.563
+  },
+  "BeAmazed": {
+    "total": 314,
+    "deletes": 170,
+    "keeps": 144,
+    "deletePercent": 54.14
+  },
+  "explainlikeimfive": {
+    "total": 306,
+    "deletes": 224,
+    "keeps": 82,
+    "deletePercent": 73.203
+  },
+  "AnimalsBeingJerks": {
+    "total": 303,
+    "deletes": 163,
+    "keeps": 140,
+    "deletePercent": 53.795
+  },
+  "rarepuppers": {
+    "total": 293,
+    "deletes": 101,
+    "keeps": 192,
+    "deletePercent": 34.471
+  },
+  "dataisbeautiful": {
+    "total": 293,
+    "deletes": 116,
+    "keeps": 177,
+    "deletePercent": 39.59
+  },
+  "DunderMifflin": {
+    "total": 292,
+    "deletes": 85,
+    "keeps": 207,
+    "deletePercent": 29.11
+  },
+  "pokemongo": {
+    "total": 289,
+    "deletes": 115,
+    "keeps": 174,
+    "deletePercent": 39.792
+  },
+  "pokemon": {
+    "total": 282,
+    "deletes": 142,
+    "keeps": 140,
+    "deletePercent": 50.355
+  },
+  "ImGoingToHellForThis": {
+    "total": 281,
+    "deletes": 94,
+    "keeps": 187,
+    "deletePercent": 33.452
+  },
+  "trashy": {
+    "total": 276,
+    "deletes": 142,
+    "keeps": 134,
+    "deletePercent": 51.449
+  },
+  "television": {
+    "total": 273,
+    "deletes": 50,
+    "keeps": 223,
+    "deletePercent": 18.315
+  },
+  "marvelstudios": {
+    "total": 267,
+    "deletes": 138,
+    "keeps": 129,
+    "deletePercent": 51.685
+  },
+  "blackmagicfuckery": {
+    "total": 265,
+    "deletes": 191,
+    "keeps": 74,
+    "deletePercent": 72.075
+  },
+  "nevertellmetheodds": {
+    "total": 263,
+    "deletes": 156,
+    "keeps": 107,
+    "deletePercent": 59.316
+  },
+  "tifu": {
+    "total": 243,
+    "deletes": 129,
+    "keeps": 114,
+    "deletePercent": 53.086
+  },
+  "Music": {
+    "total": 240,
+    "deletes": 83,
+    "keeps": 157,
+    "deletePercent": 34.583
+  },
+  "Wellthatsucks": {
+    "total": 235,
+    "deletes": 97,
+    "keeps": 138,
+    "deletePercent": 41.277
+  },
+  "MovieDetails": {
+    "total": 232,
+    "deletes": 124,
+    "keeps": 108,
+    "deletePercent": 53.448
+  },
+  "GlobalOffensive": {
+    "total": 232,
+    "deletes": 57,
+    "keeps": 175,
+    "deletePercent": 24.569
+  },
+  "evilbuildings": {
+    "total": 231,
+    "deletes": 21,
+    "keeps": 210,
+    "deletePercent": 9.091
+  },
+  "insanepeoplefacebook": {
+    "total": 229,
+    "deletes": 178,
+    "keeps": 51,
+    "deletePercent": 77.729
+  },
+  "PewdiepieSubmissions": {
+    "total": 227,
+    "deletes": 222,
+    "keeps": 5,
+    "deletePercent": 97.797
+  },
+  "creepy": {
+    "total": 227,
+    "deletes": 88,
+    "keeps": 139,
+    "deletePercent": 38.767
+  },
+  "4chan": {
+    "total": 225,
+    "deletes": 93,
+    "keeps": 132,
+    "deletePercent": 41.333
+  },
+  "KidsAreFuckingStupid": {
+    "total": 219,
+    "deletes": 189,
+    "keeps": 30,
+    "deletePercent": 86.301
+  },
+  "niceguys": {
+    "total": 218,
+    "deletes": 181,
+    "keeps": 37,
+    "deletePercent": 83.028
+  },
+  "IAmA": {
+    "total": 216,
+    "deletes": 51,
+    "keeps": 165,
+    "deletePercent": 23.611
+  },
+  "MarchAgainstTrump": {
+    "total": 215,
+    "deletes": 101,
+    "keeps": 114,
+    "deletePercent": 46.977
+  },
+  "atheism": {
+    "total": 206,
+    "deletes": 47,
+    "keeps": 159,
+    "deletePercent": 22.816
+  },
+  "meirl": {
+    "total": 198,
+    "deletes": 45,
+    "keeps": 153,
+    "deletePercent": 22.727
+  },
+  "educationalgifs": {
+    "total": 196,
+    "deletes": 108,
+    "keeps": 88,
+    "deletePercent": 55.102
+  },
+  "FortNiteBR": {
+    "total": 193,
+    "deletes": 99,
+    "keeps": 94,
+    "deletePercent": 51.295
+  },
+  "bestof": {
+    "total": 192,
+    "deletes": 79,
+    "keeps": 113,
+    "deletePercent": 41.146
+  },
+  "hmmm": {
+    "total": 191,
+    "deletes": 47,
+    "keeps": 144,
+    "deletePercent": 24.607
+  },
+  "TwoXChromosomes": {
+    "total": 190,
+    "deletes": 99,
+    "keeps": 91,
+    "deletePercent": 52.105
+  },
+  "rickandmorty": {
+    "total": 189,
+    "deletes": 47,
+    "keeps": 142,
+    "deletePercent": 24.868
+  },
+  "BetterEveryLoop": {
+    "total": 187,
+    "deletes": 93,
+    "keeps": 94,
+    "deletePercent": 49.733
+  },
+  "hockey": {
+    "total": 186,
+    "deletes": 4,
+    "keeps": 182,
+    "deletePercent": 2.151
+  },
+  "holdmybeer": {
+    "total": 182,
+    "deletes": 100,
+    "keeps": 82,
+    "deletePercent": 54.945
+  },
+  "gameofthrones": {
+    "total": 180,
+    "deletes": 131,
+    "keeps": 49,
+    "deletePercent": 72.778
+  },
+  "esist": {
+    "total": 180,
+    "deletes": 40,
+    "keeps": 140,
+    "deletePercent": 22.222
+  },
+  "reallifedoodles": {
+    "total": 179,
+    "deletes": 34,
+    "keeps": 145,
+    "deletePercent": 18.994
+  },
+  "WatchPeopleDieInside": {
+    "total": 173,
+    "deletes": 103,
+    "keeps": 70,
+    "deletePercent": 59.538
+  },
+  "teenagers": {
+    "total": 173,
+    "deletes": 131,
+    "keeps": 42,
+    "deletePercent": 75.723
+  },
+  "iamverysmart": {
+    "total": 173,
+    "deletes": 87,
+    "keeps": 86,
+    "deletePercent": 50.289
+  },
+  "assholedesign": {
+    "total": 171,
+    "deletes": 123,
+    "keeps": 48,
+    "deletePercent": 71.93
+  },
+  "HistoryMemes": {
+    "total": 169,
+    "deletes": 147,
+    "keeps": 22,
+    "deletePercent": 86.982
+  },
+  "books": {
+    "total": 165,
+    "deletes": 48,
+    "keeps": 117,
+    "deletePercent": 29.091
+  },
+  "natureismetal": {
+    "total": 164,
+    "deletes": 66,
+    "keeps": 98,
+    "deletePercent": 40.244
+  },
+  "DIY": {
+    "total": 164,
+    "deletes": 58,
+    "keeps": 106,
+    "deletePercent": 35.366
+  },
+  "skyrim": {
+    "total": 162,
+    "deletes": 114,
+    "keeps": 48,
+    "deletePercent": 70.37
+  },
+  "PerfectTiming": {
+    "total": 160,
+    "deletes": 107,
+    "keeps": 53,
+    "deletePercent": 66.875
+  },
+  "cringepics": {
+    "total": 159,
+    "deletes": 49,
+    "keeps": 110,
+    "deletePercent": 30.818
+  },
+  "JusticeServed": {
+    "total": 157,
+    "deletes": 89,
+    "keeps": 68,
+    "deletePercent": 56.688
+  },
+  "thisismylifenow": {
+    "total": 155,
+    "deletes": 33,
+    "keeps": 122,
+    "deletePercent": 21.29
+  },
+  "MemeEconomy": {
+    "total": 152,
+    "deletes": 59,
+    "keeps": 93,
+    "deletePercent": 38.816
+  },
+  "AnimalsBeingDerps": {
+    "total": 149,
+    "deletes": 80,
+    "keeps": 69,
+    "deletePercent": 53.691
+  },
+  "therewasanattempt": {
+    "total": 149,
+    "deletes": 35,
+    "keeps": 114,
+    "deletePercent": 23.49
+  },
+  "DeepFriedMemes": {
+    "total": 148,
+    "deletes": 138,
+    "keeps": 10,
+    "deletePercent": 93.243
+  },
+  "youseeingthisshit": {
+    "total": 147,
+    "deletes": 62,
+    "keeps": 85,
+    "deletePercent": 42.177
+  },
+  "TumblrInAction": {
+    "total": 147,
+    "deletes": 71,
+    "keeps": 76,
+    "deletePercent": 48.299
+  },
+  "europe": {
+    "total": 143,
+    "deletes": 34,
+    "keeps": 109,
+    "deletePercent": 23.776
+  },
+  "PeopleFuckingDying": {
+    "total": 141,
+    "deletes": 53,
+    "keeps": 88,
+    "deletePercent": 37.589
+  },
+  "wheredidthesodago": {
+    "total": 140,
+    "deletes": 44,
+    "keeps": 96,
+    "deletePercent": 31.429
+  },
+  "EnoughTrumpSpam": {
+    "total": 139,
+    "deletes": 16,
+    "keeps": 123,
+    "deletePercent": 11.511
+  },
+  "freefolk": {
+    "total": 131,
+    "deletes": 23,
+    "keeps": 108,
+    "deletePercent": 17.557
+  },
+  "KenM": {
+    "total": 131,
+    "deletes": 25,
+    "keeps": 106,
+    "deletePercent": 19.084
+  },
+  "trippinthroughtime": {
+    "total": 130,
+    "deletes": 25,
+    "keeps": 105,
+    "deletePercent": 19.231
+  },
+  "LateStageCapitalism": {
+    "total": 128,
+    "deletes": 22,
+    "keeps": 106,
+    "deletePercent": 17.188
+  },
+  "IASIP": {
+    "total": 128,
+    "deletes": 44,
+    "keeps": 84,
+    "deletePercent": 34.375
+  },
+  "OSHA": {
+    "total": 119,
+    "deletes": 76,
+    "keeps": 43,
+    "deletePercent": 63.866
+  },
+  "DotA2": {
+    "total": 118,
+    "deletes": 45,
+    "keeps": 73,
+    "deletePercent": 38.136
+  },
+  "thatHappened": {
+    "total": 116,
+    "deletes": 82,
+    "keeps": 34,
+    "deletePercent": 70.69
+  },
+  "combinedgifs": {
+    "total": 115,
+    "deletes": 54,
+    "keeps": 61,
+    "deletePercent": 46.957
+  },
+  "2meirl4meirl": {
+    "total": 114,
+    "deletes": 50,
+    "keeps": 64,
+    "deletePercent": 43.86
+  },
+  "NintendoSwitch": {
+    "total": 111,
+    "deletes": 20,
+    "keeps": 91,
+    "deletePercent": 18.018
+  },
+  "starterpacks": {
+    "total": 107,
+    "deletes": 35,
+    "keeps": 72,
+    "deletePercent": 32.71
+  },
+  "lifehacks": {
+    "total": 107,
+    "deletes": 67,
+    "keeps": 40,
+    "deletePercent": 62.617
+  },
+  "RealGirls": {
+    "total": 106,
+    "deletes": 0,
+    "keeps": 106,
+    "deletePercent": 0
+  },
+  "blackpeoplegifs": {
+    "total": 105,
+    "deletes": 32,
+    "keeps": 73,
+    "deletePercent": 30.476
+  },
+  "undefined": {
+    "total": 105,
+    "deletes": 47,
+    "keeps": 58,
+    "deletePercent": 44.762
+  },
+  "whitepeoplegifs": {
+    "total": 103,
+    "deletes": 27,
+    "keeps": 76,
+    "deletePercent": 26.214
+  },
+  "StartledCats": {
+    "total": 102,
+    "deletes": 45,
+    "keeps": 57,
+    "deletePercent": 44.118
+  },
+  "nononono": {
+    "total": 98,
+    "deletes": 59,
+    "keeps": 39,
+    "deletePercent": 60.204
+  },
+  "gadgets": {
+    "total": 98,
+    "deletes": 46,
+    "keeps": 52,
+    "deletePercent": 46.939
+  },
+  "personalfinance": {
+    "total": 98,
+    "deletes": 64,
+    "keeps": 34,
+    "deletePercent": 65.306
+  },
+  "baseball": {
+    "total": 92,
+    "deletes": 4,
+    "keeps": 88,
+    "deletePercent": 4.348
+  },
+  "boottoobig": {
+    "total": 91,
+    "deletes": 53,
+    "keeps": 38,
+    "deletePercent": 58.242
+  },
+  "greentext": {
+    "total": 91,
+    "deletes": 32,
+    "keeps": 59,
+    "deletePercent": 35.165
+  },
+  "ATBGE": {
+    "total": 89,
+    "deletes": 48,
+    "keeps": 41,
+    "deletePercent": 53.933
+  },
+  "justneckbeardthings": {
+    "total": 89,
+    "deletes": 50,
+    "keeps": 39,
+    "deletePercent": 56.18
+  },
+  "UNBGBBIIVCHIDCTIICBG": {
+    "total": 88,
+    "deletes": 13,
+    "keeps": 75,
+    "deletePercent": 14.773
+  },
+  "HistoryPorn": {
+    "total": 88,
+    "deletes": 15,
+    "keeps": 73,
+    "deletePercent": 17.045
+  },
+  "tattoos": {
+    "total": 87,
+    "deletes": 58,
+    "keeps": 29,
+    "deletePercent": 66.667
+  },
+  "softwaregore": {
+    "total": 86,
+    "deletes": 65,
+    "keeps": 21,
+    "deletePercent": 75.581
+  },
+  "iamatotalpieceofshit": {
+    "total": 85,
+    "deletes": 79,
+    "keeps": 6,
+    "deletePercent": 92.941
+  },
+  "SubredditSimulator": {
+    "total": 85,
+    "deletes": 0,
+    "keeps": 85,
+    "deletePercent": 0
+  },
+  "Documentaries": {
+    "total": 84,
+    "deletes": 35,
+    "keeps": 49,
+    "deletePercent": 41.667
+  },
+  "MMA": {
+    "total": 84,
+    "deletes": 14,
+    "keeps": 70,
+    "deletePercent": 16.667
+  },
+  "h3h3productions": {
+    "total": 84,
+    "deletes": 12,
+    "keeps": 72,
+    "deletePercent": 14.286
+  },
+  "Android": {
+    "total": 83,
+    "deletes": 20,
+    "keeps": 63,
+    "deletePercent": 24.096
+  },
+  "xboxone": {
+    "total": 82,
+    "deletes": 33,
+    "keeps": 49,
+    "deletePercent": 40.244
+  },
+  "tumblr": {
+    "total": 81,
+    "deletes": 28,
+    "keeps": 53,
+    "deletePercent": 34.568
+  },
+  "dankchristianmemes": {
+    "total": 78,
+    "deletes": 46,
+    "keeps": 32,
+    "deletePercent": 58.974
+  },
+  "AccidentalRenaissance": {
+    "total": 78,
+    "deletes": 28,
+    "keeps": 50,
+    "deletePercent": 35.897
+  },
+  "sadcringe": {
+    "total": 76,
+    "deletes": 48,
+    "keeps": 28,
+    "deletePercent": 63.158
+  },
+  "fakehistoryporn": {
+    "total": 70,
+    "deletes": 20,
+    "keeps": 50,
+    "deletePercent": 28.571
+  },
+  "Bossfight": {
+    "total": 68,
+    "deletes": 41,
+    "keeps": 27,
+    "deletePercent": 60.294
+  },
+  "ScottishPeopleTwitter": {
+    "total": 68,
+    "deletes": 21,
+    "keeps": 47,
+    "deletePercent": 30.882
+  },
+  "oldpeoplefacebook": {
+    "total": 68,
+    "deletes": 26,
+    "keeps": 42,
+    "deletePercent": 38.235
+  },
+  "apexlegends": {
+    "total": 67,
+    "deletes": 57,
+    "keeps": 10,
+    "deletePercent": 85.075
+  },
+  "iamverybadass": {
+    "total": 67,
+    "deletes": 37,
+    "keeps": 30,
+    "deletePercent": 55.224
+  },
+  "GifRecipes": {
+    "total": 67,
+    "deletes": 10,
+    "keeps": 57,
+    "deletePercent": 14.925
+  },
+  "wholesomebpt": {
+    "total": 65,
+    "deletes": 18,
+    "keeps": 47,
+    "deletePercent": 27.692
+  },
+  "standupshots": {
+    "total": 63,
+    "deletes": 6,
+    "keeps": 57,
+    "deletePercent": 9.524
+  },
+  "OopsDidntMeanTo": {
+    "total": 61,
+    "deletes": 34,
+    "keeps": 27,
+    "deletePercent": 55.738
+  },
+  "ProRevenge": {
+    "total": 59,
+    "deletes": 40,
+    "keeps": 19,
+    "deletePercent": 67.797
+  },
+  "gatekeeping": {
+    "total": 58,
+    "deletes": 40,
+    "keeps": 18,
+    "deletePercent": 68.966
+  },
+  "wow": {
+    "total": 58,
+    "deletes": 14,
+    "keeps": 44,
+    "deletePercent": 24.138
+  },
+  "MURICA": {
+    "total": 58,
+    "deletes": 15,
+    "keeps": 43,
+    "deletePercent": 25.862
+  },
+  "hearthstone": {
+    "total": 58,
+    "deletes": 25,
+    "keeps": 33,
+    "deletePercent": 43.103
+  },
+  "ExpectationVsReality": {
+    "total": 57,
+    "deletes": 20,
+    "keeps": 37,
+    "deletePercent": 35.088
+  },
+  "Minecraft": {
+    "total": 57,
+    "deletes": 37,
+    "keeps": 20,
+    "deletePercent": 64.912
+  },
+  "bonehurtingjuice": {
+    "total": 56,
+    "deletes": 50,
+    "keeps": 6,
+    "deletePercent": 89.286
+  },
+  "EmpireDidNothingWrong": {
+    "total": 56,
+    "deletes": 35,
+    "keeps": 21,
+    "deletePercent": 62.5
+  },
+  "blunderyears": {
+    "total": 56,
+    "deletes": 11,
+    "keeps": 45,
+    "deletePercent": 19.643
+  },
+  "IdiotsInCars": {
+    "total": 55,
+    "deletes": 33,
+    "keeps": 22,
+    "deletePercent": 60
+  },
+  "PandR": {
+    "total": 55,
+    "deletes": 0,
+    "keeps": 55,
+    "deletePercent": 0
+  },
+  "Frugal": {
+    "total": 55,
+    "deletes": 40,
+    "keeps": 15,
+    "deletePercent": 72.727
+  },
+  "shittyrobots": {
+    "total": 55,
+    "deletes": 17,
+    "keeps": 38,
+    "deletePercent": 30.909
+  },
+  "ANormalDayInRussia": {
+    "total": 55,
+    "deletes": 27,
+    "keeps": 28,
+    "deletePercent": 49.091
+  },
+  "canada": {
+    "total": 55,
+    "deletes": 6,
+    "keeps": 49,
+    "deletePercent": 10.909
+  },
+  "Perfectfit": {
+    "total": 53,
+    "deletes": 46,
+    "keeps": 7,
+    "deletePercent": 86.792
+  },
+  "FoodPorn": {
+    "total": 53,
+    "deletes": 34,
+    "keeps": 19,
+    "deletePercent": 64.151
+  },
+  "shittyaskscience": {
+    "total": 53,
+    "deletes": 24,
+    "keeps": 29,
+    "deletePercent": 45.283
+  },
+  "gentlemanboners": {
+    "total": 52,
+    "deletes": 25,
+    "keeps": 27,
+    "deletePercent": 48.077
+  },
+  "CringeAnarchy": {
+    "total": 52,
+    "deletes": 5,
+    "keeps": 47,
+    "deletePercent": 9.615
+  },
+  "RocketLeague": {
+    "total": 52,
+    "deletes": 16,
+    "keeps": 36,
+    "deletePercent": 30.769
+  },
+  "CozyPlaces": {
+    "total": 51,
+    "deletes": 9,
+    "keeps": 42,
+    "deletePercent": 17.647
+  },
+  "woof_irl": {
+    "total": 51,
+    "deletes": 35,
+    "keeps": 16,
+    "deletePercent": 68.627
+  },
+  "INEEEEDIT": {
+    "total": 50,
+    "deletes": 5,
+    "keeps": 45,
+    "deletePercent": 10
+  },
+  "YouShouldKnow": {
+    "total": 50,
+    "deletes": 25,
+    "keeps": 25,
+    "deletePercent": 50
+  },
+  "NSFW_GIF": {
+    "total": 50,
+    "deletes": 0,
+    "keeps": 50,
+    "deletePercent": 0
+  },
+  "chemicalreactiongifs": {
+    "total": 50,
+    "deletes": 25,
+    "keeps": 25,
+    "deletePercent": 50
+  },
+  "The_Mueller": {
+    "total": 49,
+    "deletes": 21,
+    "keeps": 28,
+    "deletePercent": 42.857
+  },
+  "mechanical_gifs": {
+    "total": 49,
+    "deletes": 17,
+    "keeps": 32,
+    "deletePercent": 34.694
+  },
+  "cursedimages": {
+    "total": 48,
+    "deletes": 46,
+    "keeps": 2,
+    "deletePercent": 95.833
+  },
+  "futurama": {
+    "total": 48,
+    "deletes": 12,
+    "keeps": 36,
+    "deletePercent": 25
+  },
+  "technicallythetruth": {
+    "total": 47,
+    "deletes": 39,
+    "keeps": 8,
+    "deletePercent": 82.979
+  },
+  "ChildrenFallingOver": {
+    "total": 47,
+    "deletes": 11,
+    "keeps": 36,
+    "deletePercent": 23.404
+  },
+  "youdontsurf": {
+    "total": 47,
+    "deletes": 9,
+    "keeps": 38,
+    "deletePercent": 19.149
+  },
+  "StrangerThings": {
+    "total": 46,
+    "deletes": 8,
+    "keeps": 38,
+    "deletePercent": 17.391
+  },
+  "PS4": {
+    "total": 46,
+    "deletes": 15,
+    "keeps": 31,
+    "deletePercent": 32.609
+  },
+  "UnethicalLifeProTips": {
+    "total": 45,
+    "deletes": 31,
+    "keeps": 14,
+    "deletePercent": 68.889
+  },
+  "BustyPetite": {
+    "total": 45,
+    "deletes": 0,
+    "keeps": 45,
+    "deletePercent": 0
+  },
+  "PUBATTLEGROUNDS": {
+    "total": 44,
+    "deletes": 12,
+    "keeps": 32,
+    "deletePercent": 27.273
+  },
+  "gifsthatkeepongiving": {
+    "total": 44,
+    "deletes": 16,
+    "keeps": 28,
+    "deletePercent": 36.364
+  },
+  "confession": {
+    "total": 44,
+    "deletes": 37,
+    "keeps": 7,
+    "deletePercent": 84.091
+  },
+  "MaliciousCompliance": {
+    "total": 44,
+    "deletes": 22,
+    "keeps": 22,
+    "deletePercent": 50
+  },
+  "ColorizedHistory": {
+    "total": 44,
+    "deletes": 0,
+    "keeps": 44,
+    "deletePercent": 0
+  },
+  "nintendo": {
+    "total": 44,
+    "deletes": 14,
+    "keeps": 30,
+    "deletePercent": 31.818
+  },
+  "RoomPorn": {
+    "total": 44,
+    "deletes": 13,
+    "keeps": 31,
+    "deletePercent": 29.545
+  },
+  "cursedcomments": {
+    "total": 43,
+    "deletes": 41,
+    "keeps": 2,
+    "deletePercent": 95.349
+  },
+  "comedyheaven": {
+    "total": 43,
+    "deletes": 37,
+    "keeps": 6,
+    "deletePercent": 86.047
+  },
+  "DadReflexes": {
+    "total": 43,
+    "deletes": 21,
+    "keeps": 22,
+    "deletePercent": 48.837
+  },
+  "behindthegifs": {
+    "total": 43,
+    "deletes": 5,
+    "keeps": 38,
+    "deletePercent": 11.628
+  },
+  "Steam": {
+    "total": 43,
+    "deletes": 16,
+    "keeps": 27,
+    "deletePercent": 37.209
+  },
+  "SquaredCircle": {
+    "total": 42,
+    "deletes": 4,
+    "keeps": 38,
+    "deletePercent": 9.524
+  },
+  "polandball": {
+    "total": 42,
+    "deletes": 4,
+    "keeps": 38,
+    "deletePercent": 9.524
+  },
+  "southpark": {
+    "total": 42,
+    "deletes": 10,
+    "keeps": 32,
+    "deletePercent": 23.81
+  },
+  "Nicegirls": {
+    "total": 41,
+    "deletes": 39,
+    "keeps": 2,
+    "deletePercent": 95.122
+  },
+  "ShittyLifeProTips": {
+    "total": 41,
+    "deletes": 10,
+    "keeps": 31,
+    "deletePercent": 24.39
+  },
+  "MapPorn": {
+    "total": 41,
+    "deletes": 23,
+    "keeps": 18,
+    "deletePercent": 56.098
+  },
+  "harrypotter": {
+    "total": 41,
+    "deletes": 2,
+    "keeps": 39,
+    "deletePercent": 4.878
+  },
+  "formula1": {
+    "total": 41,
+    "deletes": 5,
+    "keeps": 36,
+    "deletePercent": 12.195
+  },
+  "AnimalTextGifs": {
+    "total": 40,
+    "deletes": 4,
+    "keeps": 36,
+    "deletePercent": 10
+  },
+  "Rainbow6": {
+    "total": 40,
+    "deletes": 31,
+    "keeps": 9,
+    "deletePercent": 77.5
+  },
+  "Marvel": {
+    "total": 40,
+    "deletes": 15,
+    "keeps": 25,
+    "deletePercent": 37.5
+  },
+  "woooosh": {
+    "total": 39,
+    "deletes": 39,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "thanosdidnothingwrong": {
+    "total": 39,
+    "deletes": 11,
+    "keeps": 28,
+    "deletePercent": 28.205
+  },
+  "StoppedWorking": {
+    "total": 39,
+    "deletes": 4,
+    "keeps": 35,
+    "deletePercent": 10.256
+  },
+  "australia": {
+    "total": 39,
+    "deletes": 12,
+    "keeps": 27,
+    "deletePercent": 30.769
+  },
+  "smashbros": {
+    "total": 39,
+    "deletes": 8,
+    "keeps": 31,
+    "deletePercent": 20.513
+  },
+  "shittyreactiongifs": {
+    "total": 39,
+    "deletes": 3,
+    "keeps": 36,
+    "deletePercent": 7.692
+  },
+  "geek": {
+    "total": 39,
+    "deletes": 8,
+    "keeps": 31,
+    "deletePercent": 20.513
+  },
+  "circlejerk": {
+    "total": 39,
+    "deletes": 5,
+    "keeps": 34,
+    "deletePercent": 12.821
+  },
+  "Awwducational": {
+    "total": 38,
+    "deletes": 13,
+    "keeps": 25,
+    "deletePercent": 34.211
+  },
+  "CFB": {
+    "total": 38,
+    "deletes": 1,
+    "keeps": 37,
+    "deletePercent": 2.632
+  },
+  "FellowKids": {
+    "total": 38,
+    "deletes": 10,
+    "keeps": 28,
+    "deletePercent": 26.316
+  },
+  "conspiracy": {
+    "total": 38,
+    "deletes": 7,
+    "keeps": 31,
+    "deletePercent": 18.421
+  },
+  "confusing_perspective": {
+    "total": 37,
+    "deletes": 27,
+    "keeps": 10,
+    "deletePercent": 72.973
+  },
+  "wholesomegifs": {
+    "total": 37,
+    "deletes": 14,
+    "keeps": 23,
+    "deletePercent": 37.838
+  },
+  "IdiotsFightingThings": {
+    "total": 37,
+    "deletes": 23,
+    "keeps": 14,
+    "deletePercent": 62.162
+  },
+  "InternetIsBeautiful": {
+    "total": 37,
+    "deletes": 17,
+    "keeps": 20,
+    "deletePercent": 45.946
+  },
+  "lego": {
+    "total": 36,
+    "deletes": 3,
+    "keeps": 33,
+    "deletePercent": 8.333
+  },
+  "babyelephantgifs": {
+    "total": 36,
+    "deletes": 6,
+    "keeps": 30,
+    "deletePercent": 16.667
+  },
+  "DnD": {
+    "total": 36,
+    "deletes": 20,
+    "keeps": 16,
+    "deletePercent": 55.556
+  },
+  "indianpeoplefacebook": {
+    "total": 36,
+    "deletes": 23,
+    "keeps": 13,
+    "deletePercent": 63.889
+  },
+  "Justrolledintotheshop": {
+    "total": 36,
+    "deletes": 15,
+    "keeps": 21,
+    "deletePercent": 41.667
+  },
+  "sweden": {
+    "total": 36,
+    "deletes": 1,
+    "keeps": 35,
+    "deletePercent": 2.778
+  },
+  "nsfw": {
+    "total": 36,
+    "deletes": 0,
+    "keeps": 36,
+    "deletePercent": 0
+  },
+  "TrumpCriticizesTrump": {
+    "total": 35,
+    "deletes": 9,
+    "keeps": 26,
+    "deletePercent": 25.714
+  },
+  "happy": {
+    "total": 35,
+    "deletes": 5,
+    "keeps": 30,
+    "deletePercent": 14.286
+  },
+  "askscience": {
+    "total": 33,
+    "deletes": 10,
+    "keeps": 23,
+    "deletePercent": 30.303
+  },
+  "dogswithjobs": {
+    "total": 32,
+    "deletes": 11,
+    "keeps": 21,
+    "deletePercent": 34.375
+  },
+  "antiMLM": {
+    "total": 32,
+    "deletes": 17,
+    "keeps": 15,
+    "deletePercent": 53.125
+  },
+  "nostalgia": {
+    "total": 32,
+    "deletes": 7,
+    "keeps": 25,
+    "deletePercent": 21.875
+  },
+  "firstworldanarchists": {
+    "total": 32,
+    "deletes": 0,
+    "keeps": 32,
+    "deletePercent": 0
+  },
+  "history": {
+    "total": 32,
+    "deletes": 6,
+    "keeps": 26,
+    "deletePercent": 18.75
+  },
+  "blursedimages": {
+    "total": 31,
+    "deletes": 31,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "CrazyIdeas": {
+    "total": 31,
+    "deletes": 19,
+    "keeps": 12,
+    "deletePercent": 61.29
+  },
+  "DiWHY": {
+    "total": 31,
+    "deletes": 20,
+    "keeps": 11,
+    "deletePercent": 64.516
+  },
+  "2007scape": {
+    "total": 31,
+    "deletes": 16,
+    "keeps": 15,
+    "deletePercent": 51.613
+  },
+  "PublicFreakout": {
+    "total": 30,
+    "deletes": 10,
+    "keeps": 20,
+    "deletePercent": 33.333
+  },
+  "totallynotrobots": {
+    "total": 30,
+    "deletes": 12,
+    "keeps": 18,
+    "deletePercent": 40
+  },
+  "powerwashingporn": {
+    "total": 30,
+    "deletes": 14,
+    "keeps": 16,
+    "deletePercent": 46.667
+  },
+  "AbandonedPorn": {
+    "total": 30,
+    "deletes": 7,
+    "keeps": 23,
+    "deletePercent": 23.333
+  },
+  "SuddenlyGay": {
+    "total": 29,
+    "deletes": 25,
+    "keeps": 4,
+    "deletePercent": 86.207
+  },
+  "surrealmemes": {
+    "total": 29,
+    "deletes": 18,
+    "keeps": 11,
+    "deletePercent": 62.069
+  },
+  "Justfuckmyshitup": {
+    "total": 29,
+    "deletes": 8,
+    "keeps": 21,
+    "deletePercent": 27.586
+  },
+  "civ": {
+    "total": 29,
+    "deletes": 13,
+    "keeps": 16,
+    "deletePercent": 44.828
+  },
+  "likeus": {
+    "total": 28,
+    "deletes": 8,
+    "keeps": 20,
+    "deletePercent": 28.571
+  },
+  "Zoomies": {
+    "total": 28,
+    "deletes": 10,
+    "keeps": 18,
+    "deletePercent": 35.714
+  },
+  "NotMyJob": {
+    "total": 28,
+    "deletes": 17,
+    "keeps": 11,
+    "deletePercent": 60.714
+  },
+  "bidenbro": {
+    "total": 28,
+    "deletes": 3,
+    "keeps": 25,
+    "deletePercent": 10.714
+  },
+  "CatastrophicFailure": {
+    "total": 27,
+    "deletes": 17,
+    "keeps": 10,
+    "deletePercent": 62.963
+  },
+  "SweatyPalms": {
+    "total": 27,
+    "deletes": 15,
+    "keeps": 12,
+    "deletePercent": 55.556
+  },
+  "Fuckthealtright": {
+    "total": 27,
+    "deletes": 5,
+    "keeps": 22,
+    "deletePercent": 18.519
+  },
+  "BiggerThanYouThought": {
+    "total": 26,
+    "deletes": 0,
+    "keeps": 26,
+    "deletePercent": 0
+  },
+  "philosophy": {
+    "total": 26,
+    "deletes": 20,
+    "keeps": 6,
+    "deletePercent": 76.923
+  },
+  "notinteresting": {
+    "total": 26,
+    "deletes": 20,
+    "keeps": 6,
+    "deletePercent": 76.923
+  },
+  "WritingPrompts": {
+    "total": 26,
+    "deletes": 2,
+    "keeps": 24,
+    "deletePercent": 7.692
+  },
+  "Trumpgret": {
+    "total": 25,
+    "deletes": 9,
+    "keeps": 16,
+    "deletePercent": 36
+  },
+  "Kanye": {
+    "total": 25,
+    "deletes": 17,
+    "keeps": 8,
+    "deletePercent": 68
+  },
+  "brooklynninenine": {
+    "total": 24,
+    "deletes": 12,
+    "keeps": 12,
+    "deletePercent": 50
+  },
+  "tippytaps": {
+    "total": 24,
+    "deletes": 7,
+    "keeps": 17,
+    "deletePercent": 29.167
+  },
+  "lgbt": {
+    "total": 24,
+    "deletes": 6,
+    "keeps": 18,
+    "deletePercent": 25
+  },
+  "DesignPorn": {
+    "total": 24,
+    "deletes": 9,
+    "keeps": 15,
+    "deletePercent": 37.5
+  },
+  "travel": {
+    "total": 24,
+    "deletes": 4,
+    "keeps": 20,
+    "deletePercent": 16.667
+  },
+  "HillaryForPrison": {
+    "total": 24,
+    "deletes": 3,
+    "keeps": 21,
+    "deletePercent": 12.5
+  },
+  "britishproblems": {
+    "total": 24,
+    "deletes": 13,
+    "keeps": 11,
+    "deletePercent": 54.167
+  },
+  "holdthemoan": {
+    "total": 24,
+    "deletes": 0,
+    "keeps": 24,
+    "deletePercent": 0
+  },
+  "BlueMidterm2018": {
+    "total": 23,
+    "deletes": 0,
+    "keeps": 23,
+    "deletePercent": 0
+  },
+  "Bitcoin": {
+    "total": 23,
+    "deletes": 5,
+    "keeps": 18,
+    "deletePercent": 21.739
+  },
+  "calvinandhobbes": {
+    "total": 23,
+    "deletes": 3,
+    "keeps": 20,
+    "deletePercent": 13.043
+  },
+  "drunk": {
+    "total": 23,
+    "deletes": 3,
+    "keeps": 20,
+    "deletePercent": 13.043
+  },
+  "youtubehaiku": {
+    "total": 23,
+    "deletes": 5,
+    "keeps": 18,
+    "deletePercent": 21.739
+  },
+  "Simulated": {
+    "total": 23,
+    "deletes": 7,
+    "keeps": 16,
+    "deletePercent": 30.435
+  },
+  "legaladvice": {
+    "total": 23,
+    "deletes": 5,
+    "keeps": 18,
+    "deletePercent": 21.739
+  },
+  "cats": {
+    "total": 23,
+    "deletes": 0,
+    "keeps": 23,
+    "deletePercent": 0
+  },
+  "nextfuckinglevel": {
+    "total": 22,
+    "deletes": 17,
+    "keeps": 5,
+    "deletePercent": 77.273
+  },
+  "rareinsults": {
+    "total": 22,
+    "deletes": 14,
+    "keeps": 8,
+    "deletePercent": 63.636
+  },
+  "disneyvacation": {
+    "total": 22,
+    "deletes": 3,
+    "keeps": 19,
+    "deletePercent": 13.636
+  },
+  "Impeach_Trump": {
+    "total": 22,
+    "deletes": 2,
+    "keeps": 20,
+    "deletePercent": 9.091
+  },
+  "trebuchetmemes": {
+    "total": 22,
+    "deletes": 2,
+    "keeps": 20,
+    "deletePercent": 9.091
+  },
+  "pettyrevenge": {
+    "total": 22,
+    "deletes": 15,
+    "keeps": 7,
+    "deletePercent": 68.182
+  },
+  "GamePhysics": {
+    "total": 22,
+    "deletes": 0,
+    "keeps": 22,
+    "deletePercent": 0
+  },
+  "QuotesPorn": {
+    "total": 22,
+    "deletes": 11,
+    "keeps": 11,
+    "deletePercent": 50
+  },
+  "pussypassdenied": {
+    "total": 22,
+    "deletes": 4,
+    "keeps": 18,
+    "deletePercent": 18.182
+  },
+  "forbiddensnacks": {
+    "total": 21,
+    "deletes": 12,
+    "keeps": 9,
+    "deletePercent": 57.143
+  },
+  "WhatsWrongWithYourDog": {
+    "total": 21,
+    "deletes": 9,
+    "keeps": 12,
+    "deletePercent": 42.857
+  },
+  "beholdthemasterrace": {
+    "total": 21,
+    "deletes": 20,
+    "keeps": 1,
+    "deletePercent": 95.238
+  },
+  "LivestreamFail": {
+    "total": 21,
+    "deletes": 3,
+    "keeps": 18,
+    "deletePercent": 14.286
+  },
+  "motorcycles": {
+    "total": 21,
+    "deletes": 6,
+    "keeps": 15,
+    "deletePercent": 28.571
+  },
+  "PetiteGoneWild": {
+    "total": 21,
+    "deletes": 0,
+    "keeps": 21,
+    "deletePercent": 0
+  },
+  "TheLastAirbender": {
+    "total": 21,
+    "deletes": 9,
+    "keeps": 12,
+    "deletePercent": 42.857
+  },
+  "AbsoluteUnits": {
+    "total": 20,
+    "deletes": 18,
+    "keeps": 2,
+    "deletePercent": 90
+  },
+  "Animemes": {
+    "total": 20,
+    "deletes": 19,
+    "keeps": 1,
+    "deletePercent": 95
+  },
+  "holdmycosmo": {
+    "total": 20,
+    "deletes": 11,
+    "keeps": 9,
+    "deletePercent": 55
+  },
+  "CryptoCurrency": {
+    "total": 20,
+    "deletes": 12,
+    "keeps": 8,
+    "deletePercent": 60
+  },
+  "crappyoffbrands": {
+    "total": 20,
+    "deletes": 16,
+    "keeps": 4,
+    "deletePercent": 80
+  },
+  "im14andthisisdeep": {
+    "total": 20,
+    "deletes": 12,
+    "keeps": 8,
+    "deletePercent": 60
+  },
+  "westworld": {
+    "total": 20,
+    "deletes": 5,
+    "keeps": 15,
+    "deletePercent": 25
+  },
+  "gardening": {
+    "total": 20,
+    "deletes": 5,
+    "keeps": 15,
+    "deletePercent": 25
+  },
+  "NoMansSkyTheGame": {
+    "total": 20,
+    "deletes": 6,
+    "keeps": 14,
+    "deletePercent": 30
+  },
+  "streetwear": {
+    "total": 20,
+    "deletes": 11,
+    "keeps": 9,
+    "deletePercent": 55
+  },
+  "fo4": {
+    "total": 20,
+    "deletes": 11,
+    "keeps": 9,
+    "deletePercent": 55
+  },
+  "CasualUK": {
+    "total": 19,
+    "deletes": 4,
+    "keeps": 15,
+    "deletePercent": 21.053
+  },
+  "dontdeadopeninside": {
+    "total": 19,
+    "deletes": 16,
+    "keeps": 3,
+    "deletePercent": 84.211
+  },
+  "MealPrepSunday": {
+    "total": 19,
+    "deletes": 14,
+    "keeps": 5,
+    "deletePercent": 73.684
+  },
+  "Political_Revolution": {
+    "total": 19,
+    "deletes": 1,
+    "keeps": 18,
+    "deletePercent": 5.263
+  },
+  "yesyesyesno": {
+    "total": 18,
+    "deletes": 17,
+    "keeps": 1,
+    "deletePercent": 94.444
+  },
+  "ofcoursethatsathing": {
+    "total": 18,
+    "deletes": 7,
+    "keeps": 11,
+    "deletePercent": 38.889
+  },
+  "wallstreetbets": {
+    "total": 18,
+    "deletes": 4,
+    "keeps": 14,
+    "deletePercent": 22.222
+  },
+  "reddeadredemption": {
+    "total": 18,
+    "deletes": 11,
+    "keeps": 7,
+    "deletePercent": 61.111
+  },
+  "teslamotors": {
+    "total": 18,
+    "deletes": 2,
+    "keeps": 16,
+    "deletePercent": 11.111
+  },
+  "BeforeNAfterAdoption": {
+    "total": 18,
+    "deletes": 2,
+    "keeps": 16,
+    "deletePercent": 11.111
+  },
+  "tf2": {
+    "total": 18,
+    "deletes": 4,
+    "keeps": 14,
+    "deletePercent": 22.222
+  },
+  "uncensorednews": {
+    "total": 18,
+    "deletes": 2,
+    "keeps": 16,
+    "deletePercent": 11.111
+  },
+  "coolguides": {
+    "total": 18,
+    "deletes": 4,
+    "keeps": 14,
+    "deletePercent": 22.222
+  },
+  "pcgaming": {
+    "total": 18,
+    "deletes": 2,
+    "keeps": 16,
+    "deletePercent": 11.111
+  },
+  "rage": {
+    "total": 18,
+    "deletes": 10,
+    "keeps": 8,
+    "deletePercent": 55.556
+  },
+  "Celebs": {
+    "total": 18,
+    "deletes": 2,
+    "keeps": 16,
+    "deletePercent": 11.111
+  },
+  "imsorryjon": {
+    "total": 17,
+    "deletes": 11,
+    "keeps": 6,
+    "deletePercent": 64.706
+  },
+  "relationship_advice": {
+    "total": 17,
+    "deletes": 12,
+    "keeps": 5,
+    "deletePercent": 70.588
+  },
+  "WhyWereTheyFilming": {
+    "total": 17,
+    "deletes": 13,
+    "keeps": 4,
+    "deletePercent": 76.471
+  },
+  "ActLikeYouBelong": {
+    "total": 17,
+    "deletes": 9,
+    "keeps": 8,
+    "deletePercent": 52.941
+  },
+  "spaceporn": {
+    "total": 17,
+    "deletes": 7,
+    "keeps": 10,
+    "deletePercent": 41.176
+  },
+  "MensRights": {
+    "total": 17,
+    "deletes": 4,
+    "keeps": 13,
+    "deletePercent": 23.529
+  },
+  "ArcherFX": {
+    "total": 17,
+    "deletes": 4,
+    "keeps": 13,
+    "deletePercent": 23.529
+  },
+  "witcher": {
+    "total": 17,
+    "deletes": 9,
+    "keeps": 8,
+    "deletePercent": 52.941
+  },
+  "CollegeBasketball": {
+    "total": 17,
+    "deletes": 1,
+    "keeps": 16,
+    "deletePercent": 5.882
+  },
+  "FloridaMan": {
+    "total": 17,
+    "deletes": 10,
+    "keeps": 7,
+    "deletePercent": 58.824
+  },
+  "LearnUselessTalents": {
+    "total": 17,
+    "deletes": 4,
+    "keeps": 13,
+    "deletePercent": 23.529
+  },
+  "Instagramreality": {
+    "total": 16,
+    "deletes": 15,
+    "keeps": 1,
+    "deletePercent": 93.75
+  },
+  "breathinginformation": {
+    "total": 16,
+    "deletes": 8,
+    "keeps": 8,
+    "deletePercent": 50
+  },
+  "shittyfoodporn": {
+    "total": 16,
+    "deletes": 8,
+    "keeps": 8,
+    "deletePercent": 50
+  },
+  "whatisthisthing": {
+    "total": 16,
+    "deletes": 11,
+    "keeps": 5,
+    "deletePercent": 68.75
+  },
+  "DestinyTheGame": {
+    "total": 16,
+    "deletes": 2,
+    "keeps": 14,
+    "deletePercent": 12.5
+  },
+  "anime_irl": {
+    "total": 16,
+    "deletes": 9,
+    "keeps": 7,
+    "deletePercent": 56.25
+  },
+  "ireland": {
+    "total": 16,
+    "deletes": 3,
+    "keeps": 13,
+    "deletePercent": 18.75
+  },
+  "de": {
+    "total": 16,
+    "deletes": 0,
+    "keeps": 16,
+    "deletePercent": 0
+  },
+  "techsupportgore": {
+    "total": 16,
+    "deletes": 14,
+    "keeps": 2,
+    "deletePercent": 87.5
+  },
+  "AmItheAsshole": {
+    "total": 15,
+    "deletes": 12,
+    "keeps": 3,
+    "deletePercent": 80
+  },
+  "unpopularopinion": {
+    "total": 15,
+    "deletes": 14,
+    "keeps": 1,
+    "deletePercent": 93.333
+  },
+  "creepyasterisks": {
+    "total": 15,
+    "deletes": 10,
+    "keeps": 5,
+    "deletePercent": 66.667
+  },
+  "FunnyandSad": {
+    "total": 15,
+    "deletes": 0,
+    "keeps": 15,
+    "deletePercent": 0
+  },
+  "offbeat": {
+    "total": 15,
+    "deletes": 8,
+    "keeps": 7,
+    "deletePercent": 53.333
+  },
+  "apple": {
+    "total": 15,
+    "deletes": 3,
+    "keeps": 12,
+    "deletePercent": 20
+  },
+  "programming": {
+    "total": 15,
+    "deletes": 9,
+    "keeps": 6,
+    "deletePercent": 60
+  },
+  "ComedyCemetery": {
+    "total": 14,
+    "deletes": 10,
+    "keeps": 4,
+    "deletePercent": 71.429
+  },
+  "itookapicture": {
+    "total": 14,
+    "deletes": 2,
+    "keeps": 12,
+    "deletePercent": 14.286
+  },
+  "StarWarsBattlefront": {
+    "total": 14,
+    "deletes": 6,
+    "keeps": 8,
+    "deletePercent": 42.857
+  },
+  "PenmanshipPorn": {
+    "total": 14,
+    "deletes": 5,
+    "keeps": 9,
+    "deletePercent": 35.714
+  },
+  "fantasyfootball": {
+    "total": 14,
+    "deletes": 0,
+    "keeps": 14,
+    "deletePercent": 0
+  },
+  "theocho": {
+    "total": 14,
+    "deletes": 3,
+    "keeps": 11,
+    "deletePercent": 21.429
+  },
+  "AsiansGoneWild": {
+    "total": 14,
+    "deletes": 0,
+    "keeps": 14,
+    "deletePercent": 0
+  },
+  "announcements": {
+    "total": 14,
+    "deletes": 5,
+    "keeps": 9,
+    "deletePercent": 35.714
+  },
+  "BoneAppleTea": {
+    "total": 13,
+    "deletes": 13,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "inthesoulstone": {
+    "total": 13,
+    "deletes": 1,
+    "keeps": 12,
+    "deletePercent": 7.692
+  },
+  "2healthbars": {
+    "total": 13,
+    "deletes": 12,
+    "keeps": 1,
+    "deletePercent": 92.308
+  },
+  "place": {
+    "total": 13,
+    "deletes": 0,
+    "keeps": 13,
+    "deletePercent": 0
+  },
+  "CampingandHiking": {
+    "total": 13,
+    "deletes": 4,
+    "keeps": 9,
+    "deletePercent": 30.769
+  },
+  "lotr": {
+    "total": 13,
+    "deletes": 8,
+    "keeps": 5,
+    "deletePercent": 61.538
+  },
+  "battlefield_one": {
+    "total": 13,
+    "deletes": 6,
+    "keeps": 7,
+    "deletePercent": 46.154
+  },
+  "holdmyjuicebox": {
+    "total": 13,
+    "deletes": 7,
+    "keeps": 6,
+    "deletePercent": 53.846
+  },
+  "corgi": {
+    "total": 13,
+    "deletes": 2,
+    "keeps": 11,
+    "deletePercent": 15.385
+  },
+  "classic4chan": {
+    "total": 13,
+    "deletes": 5,
+    "keeps": 8,
+    "deletePercent": 38.462
+  },
+  "gif": {
+    "total": 13,
+    "deletes": 3,
+    "keeps": 10,
+    "deletePercent": 23.077
+  },
+  "KotakuInAction": {
+    "total": 13,
+    "deletes": 3,
+    "keeps": 10,
+    "deletePercent": 23.077
+  },
+  "WatchandLearn": {
+    "total": 12,
+    "deletes": 1,
+    "keeps": 11,
+    "deletePercent": 8.333
+  },
+  "OurPresident": {
+    "total": 12,
+    "deletes": 0,
+    "keeps": 12,
+    "deletePercent": 0
+  },
+  "environment": {
+    "total": 12,
+    "deletes": 3,
+    "keeps": 9,
+    "deletePercent": 25
+  },
+  "thalassophobia": {
+    "total": 12,
+    "deletes": 6,
+    "keeps": 6,
+    "deletePercent": 50
+  },
+  "comicbooks": {
+    "total": 12,
+    "deletes": 3,
+    "keeps": 9,
+    "deletePercent": 25
+  },
+  "olympics": {
+    "total": 12,
+    "deletes": 3,
+    "keeps": 9,
+    "deletePercent": 25
+  },
+  "theydidthemath": {
+    "total": 12,
+    "deletes": 5,
+    "keeps": 7,
+    "deletePercent": 41.667
+  },
+  "SubredditDrama": {
+    "total": 12,
+    "deletes": 0,
+    "keeps": 12,
+    "deletePercent": 0
+  },
+  "battlestations": {
+    "total": 12,
+    "deletes": 5,
+    "keeps": 7,
+    "deletePercent": 41.667
+  },
+  "asoiaf": {
+    "total": 12,
+    "deletes": 4,
+    "keeps": 8,
+    "deletePercent": 33.333
+  },
+  "cosplaygirls": {
+    "total": 12,
+    "deletes": 7,
+    "keeps": 5,
+    "deletePercent": 58.333
+  },
+  "cringe": {
+    "total": 12,
+    "deletes": 5,
+    "keeps": 7,
+    "deletePercent": 41.667
+  },
+  "ABoringDystopia": {
+    "total": 11,
+    "deletes": 11,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "vaxxhappened": {
+    "total": 11,
+    "deletes": 9,
+    "keeps": 2,
+    "deletePercent": 81.818
+  },
+  "instantkarma": {
+    "total": 11,
+    "deletes": 5,
+    "keeps": 6,
+    "deletePercent": 45.455
+  },
+  "BuyItForLife": {
+    "total": 11,
+    "deletes": 6,
+    "keeps": 5,
+    "deletePercent": 54.545
+  },
+  "SequelMemes": {
+    "total": 11,
+    "deletes": 1,
+    "keeps": 10,
+    "deletePercent": 9.091
+  },
+  "neoliberal": {
+    "total": 11,
+    "deletes": 1,
+    "keeps": 10,
+    "deletePercent": 9.091
+  },
+  "Superbowl": {
+    "total": 11,
+    "deletes": 0,
+    "keeps": 11,
+    "deletePercent": 0
+  },
+  "AgainstHateSubreddits": {
+    "total": 11,
+    "deletes": 0,
+    "keeps": 11,
+    "deletePercent": 0
+  },
+  "GarlicBreadMemes": {
+    "total": 11,
+    "deletes": 1,
+    "keeps": 10,
+    "deletePercent": 9.091
+  },
+  "EngineeringPorn": {
+    "total": 11,
+    "deletes": 3,
+    "keeps": 8,
+    "deletePercent": 27.273
+  },
+  "Patriots": {
+    "total": 11,
+    "deletes": 5,
+    "keeps": 6,
+    "deletePercent": 45.455
+  },
+  "socialism": {
+    "total": 11,
+    "deletes": 8,
+    "keeps": 3,
+    "deletePercent": 72.727
+  },
+  "guns": {
+    "total": 11,
+    "deletes": 4,
+    "keeps": 7,
+    "deletePercent": 36.364
+  },
+  "NSFWFunny": {
+    "total": 11,
+    "deletes": 0,
+    "keeps": 11,
+    "deletePercent": 0
+  },
+  "batman": {
+    "total": 11,
+    "deletes": 3,
+    "keeps": 8,
+    "deletePercent": 27.273
+  },
+  "dadjokes": {
+    "total": 11,
+    "deletes": 0,
+    "keeps": 11,
+    "deletePercent": 0
+  },
+  "ukpolitics": {
+    "total": 11,
+    "deletes": 1,
+    "keeps": 10,
+    "deletePercent": 9.091
+  },
+  "Libertarian": {
+    "total": 11,
+    "deletes": 0,
+    "keeps": 11,
+    "deletePercent": 0
+  },
+  "woodworking": {
+    "total": 11,
+    "deletes": 4,
+    "keeps": 7,
+    "deletePercent": 36.364
+  },
+  "spacex": {
+    "total": 11,
+    "deletes": 0,
+    "keeps": 11,
+    "deletePercent": 0
+  },
+  "TopGear": {
+    "total": 11,
+    "deletes": 2,
+    "keeps": 9,
+    "deletePercent": 18.182
+  },
+  "ContagiousLaughter": {
+    "total": 10,
+    "deletes": 3,
+    "keeps": 7,
+    "deletePercent": 30
+  },
+  "NoStupidQuestions": {
+    "total": 10,
+    "deletes": 8,
+    "keeps": 2,
+    "deletePercent": 80
+  },
+  "holdmycatnip": {
+    "total": 10,
+    "deletes": 1,
+    "keeps": 9,
+    "deletePercent": 10
+  },
+  "BoJackHorseman": {
+    "total": 10,
+    "deletes": 3,
+    "keeps": 7,
+    "deletePercent": 30
+  },
+  "The_Dennis": {
+    "total": 10,
+    "deletes": 0,
+    "keeps": 10,
+    "deletePercent": 0
+  },
+  "dank_meme": {
+    "total": 10,
+    "deletes": 6,
+    "keeps": 4,
+    "deletePercent": 60
+  },
+  "TheSimpsons": {
+    "total": 10,
+    "deletes": 2,
+    "keeps": 8,
+    "deletePercent": 20
+  },
+  "hitmanimals": {
+    "total": 10,
+    "deletes": 6,
+    "keeps": 4,
+    "deletePercent": 60
+  },
+  "zelda": {
+    "total": 10,
+    "deletes": 4,
+    "keeps": 6,
+    "deletePercent": 40
+  },
+  "exmormon": {
+    "total": 10,
+    "deletes": 4,
+    "keeps": 6,
+    "deletePercent": 40
+  },
+  "Idubbbz": {
+    "total": 10,
+    "deletes": 2,
+    "keeps": 8,
+    "deletePercent": 20
+  },
+  "savedyouaclick": {
+    "total": 10,
+    "deletes": 4,
+    "keeps": 6,
+    "deletePercent": 40
+  },
+  "MechanicalKeyboards": {
+    "total": 10,
+    "deletes": 1,
+    "keeps": 9,
+    "deletePercent": 10
+  },
+  "worldpolitics": {
+    "total": 10,
+    "deletes": 1,
+    "keeps": 9,
+    "deletePercent": 10
+  },
+  "carporn": {
+    "total": 10,
+    "deletes": 2,
+    "keeps": 8,
+    "deletePercent": 20
+  },
+  "gifextra": {
+    "total": 10,
+    "deletes": 4,
+    "keeps": 6,
+    "deletePercent": 40
+  },
+  "Pareidolia": {
+    "total": 10,
+    "deletes": 1,
+    "keeps": 9,
+    "deletePercent": 10
+  },
+  "hiphopheads": {
+    "total": 10,
+    "deletes": 3,
+    "keeps": 7,
+    "deletePercent": 30
+  },
+  "suicidebywords": {
+    "total": 9,
+    "deletes": 8,
+    "keeps": 1,
+    "deletePercent": 88.889
+  },
+  "PornhubComments": {
+    "total": 9,
+    "deletes": 9,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "AteTheOnion": {
+    "total": 9,
+    "deletes": 6,
+    "keeps": 3,
+    "deletePercent": 66.667
+  },
+  "yesyesyesyesno": {
+    "total": 9,
+    "deletes": 7,
+    "keeps": 2,
+    "deletePercent": 77.778
+  },
+  "WeWantPlates": {
+    "total": 9,
+    "deletes": 1,
+    "keeps": 8,
+    "deletePercent": 11.111
+  },
+  "lastimages": {
+    "total": 9,
+    "deletes": 4,
+    "keeps": 5,
+    "deletePercent": 44.444
+  },
+  "curlyhair": {
+    "total": 9,
+    "deletes": 6,
+    "keeps": 3,
+    "deletePercent": 66.667
+  },
+  "Ice_Poseidon": {
+    "total": 9,
+    "deletes": 3,
+    "keeps": 6,
+    "deletePercent": 33.333
+  },
+  "gamegrumps": {
+    "total": 9,
+    "deletes": 5,
+    "keeps": 4,
+    "deletePercent": 55.556
+  },
+  "WeatherGifs": {
+    "total": 9,
+    "deletes": 3,
+    "keeps": 6,
+    "deletePercent": 33.333
+  },
+  "listentothis": {
+    "total": 9,
+    "deletes": 7,
+    "keeps": 2,
+    "deletePercent": 77.778
+  },
+  "nfl": {
+    "total": 9,
+    "deletes": 1,
+    "keeps": 8,
+    "deletePercent": 11.111
+  },
+  "blessedimages": {
+    "total": 8,
+    "deletes": 7,
+    "keeps": 1,
+    "deletePercent": 87.5
+  },
+  "sbubby": {
+    "total": 8,
+    "deletes": 8,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "lotrmemes": {
+    "total": 8,
+    "deletes": 2,
+    "keeps": 6,
+    "deletePercent": 25
+  },
+  "outrun": {
+    "total": 8,
+    "deletes": 4,
+    "keeps": 4,
+    "deletePercent": 50
+  },
+  "holdmyredbull": {
+    "total": 8,
+    "deletes": 0,
+    "keeps": 8,
+    "deletePercent": 0
+  },
+  "CrewsCrew": {
+    "total": 8,
+    "deletes": 3,
+    "keeps": 5,
+    "deletePercent": 37.5
+  },
+  "awwwtf": {
+    "total": 8,
+    "deletes": 6,
+    "keeps": 2,
+    "deletePercent": 75
+  },
+  "creepyPMs": {
+    "total": 8,
+    "deletes": 2,
+    "keeps": 6,
+    "deletePercent": 25
+  },
+  "vexillology": {
+    "total": 8,
+    "deletes": 4,
+    "keeps": 4,
+    "deletePercent": 50
+  },
+  "TinyTrumps": {
+    "total": 8,
+    "deletes": 1,
+    "keeps": 7,
+    "deletePercent": 12.5
+  },
+  "SAVEBRENDAN": {
+    "total": 8,
+    "deletes": 1,
+    "keeps": 7,
+    "deletePercent": 12.5
+  },
+  "thegrandtour": {
+    "total": 8,
+    "deletes": 2,
+    "keeps": 6,
+    "deletePercent": 25
+  },
+  "talesfromtechsupport": {
+    "total": 8,
+    "deletes": 1,
+    "keeps": 7,
+    "deletePercent": 12.5
+  },
+  "RoastMe": {
+    "total": 8,
+    "deletes": 1,
+    "keeps": 7,
+    "deletePercent": 12.5
+  },
+  "funhaus": {
+    "total": 8,
+    "deletes": 1,
+    "keeps": 7,
+    "deletePercent": 12.5
+  },
+  "PoliticalDiscussion": {
+    "total": 8,
+    "deletes": 3,
+    "keeps": 5,
+    "deletePercent": 37.5
+  },
+  "comedynecromancy": {
+    "total": 7,
+    "deletes": 7,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "KeanuBeingAwesome": {
+    "total": 7,
+    "deletes": 1,
+    "keeps": 6,
+    "deletePercent": 14.286
+  },
+  "garlicoin": {
+    "total": 7,
+    "deletes": 4,
+    "keeps": 3,
+    "deletePercent": 57.143
+  },
+  "Breath_of_the_Wild": {
+    "total": 7,
+    "deletes": 3,
+    "keeps": 4,
+    "deletePercent": 42.857
+  },
+  "specializedtools": {
+    "total": 7,
+    "deletes": 3,
+    "keeps": 4,
+    "deletePercent": 42.857
+  },
+  "adorableporn": {
+    "total": 7,
+    "deletes": 0,
+    "keeps": 7,
+    "deletePercent": 0
+  },
+  "eagles": {
+    "total": 7,
+    "deletes": 0,
+    "keeps": 7,
+    "deletePercent": 0
+  },
+  "JoeRogan": {
+    "total": 7,
+    "deletes": 3,
+    "keeps": 4,
+    "deletePercent": 42.857
+  },
+  "The_Brendan": {
+    "total": 7,
+    "deletes": 1,
+    "keeps": 6,
+    "deletePercent": 14.286
+  },
+  "RetroFuturism": {
+    "total": 7,
+    "deletes": 5,
+    "keeps": 2,
+    "deletePercent": 71.429
+  },
+  "MEOW_IRL": {
+    "total": 7,
+    "deletes": 2,
+    "keeps": 5,
+    "deletePercent": 28.571
+  },
+  "Sneakers": {
+    "total": 7,
+    "deletes": 4,
+    "keeps": 3,
+    "deletePercent": 57.143
+  },
+  "iphone": {
+    "total": 7,
+    "deletes": 3,
+    "keeps": 4,
+    "deletePercent": 42.857
+  },
+  "catpranks": {
+    "total": 7,
+    "deletes": 1,
+    "keeps": 6,
+    "deletePercent": 14.286
+  },
+  "roosterteeth": {
+    "total": 7,
+    "deletes": 1,
+    "keeps": 6,
+    "deletePercent": 14.286
+  },
+  "everymanshouldknow": {
+    "total": 7,
+    "deletes": 5,
+    "keeps": 2,
+    "deletePercent": 71.429
+  },
+  "TooMeIrlForMeIrl": {
+    "total": 7,
+    "deletes": 7,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "thewalkingdead": {
+    "total": 7,
+    "deletes": 1,
+    "keeps": 6,
+    "deletePercent": 14.286
+  },
+  "magicTCG": {
+    "total": 7,
+    "deletes": 2,
+    "keeps": 5,
+    "deletePercent": 28.571
+  },
+  "toptalent": {
+    "total": 6,
+    "deletes": 0,
+    "keeps": 6,
+    "deletePercent": 0
+  },
+  "awfuleverything": {
+    "total": 6,
+    "deletes": 5,
+    "keeps": 1,
+    "deletePercent": 83.333
+  },
+  "BrandNewSentence": {
+    "total": 6,
+    "deletes": 5,
+    "keeps": 1,
+    "deletePercent": 83.333
+  },
+  "netflix": {
+    "total": 6,
+    "deletes": 1,
+    "keeps": 5,
+    "deletePercent": 16.667
+  },
+  "AccidentalWesAnderson": {
+    "total": 6,
+    "deletes": 1,
+    "keeps": 5,
+    "deletePercent": 16.667
+  },
+  "loseit": {
+    "total": 6,
+    "deletes": 2,
+    "keeps": 4,
+    "deletePercent": 33.333
+  },
+  "PartyParrot": {
+    "total": 6,
+    "deletes": 1,
+    "keeps": 5,
+    "deletePercent": 16.667
+  },
+  "BannedFromThe_Donald": {
+    "total": 6,
+    "deletes": 0,
+    "keeps": 6,
+    "deletePercent": 0
+  },
+  "golf": {
+    "total": 6,
+    "deletes": 3,
+    "keeps": 3,
+    "deletePercent": 50
+  },
+  "forhonor": {
+    "total": 6,
+    "deletes": 3,
+    "keeps": 3,
+    "deletePercent": 50
+  },
+  "Prematurecelebration": {
+    "total": 6,
+    "deletes": 2,
+    "keeps": 4,
+    "deletePercent": 33.333
+  },
+  "fffffffuuuuuuuuuuuu": {
+    "total": 6,
+    "deletes": 3,
+    "keeps": 3,
+    "deletePercent": 50
+  },
+  "Sneks": {
+    "total": 6,
+    "deletes": 0,
+    "keeps": 6,
+    "deletePercent": 0
+  },
+  "marijuanaenthusiasts": {
+    "total": 6,
+    "deletes": 3,
+    "keeps": 3,
+    "deletePercent": 50
+  },
+  "TheWayWeWere": {
+    "total": 6,
+    "deletes": 5,
+    "keeps": 1,
+    "deletePercent": 83.333
+  },
+  "michaelbaygifs": {
+    "total": 6,
+    "deletes": 2,
+    "keeps": 4,
+    "deletePercent": 33.333
+  },
+  "reddevils": {
+    "total": 6,
+    "deletes": 1,
+    "keeps": 5,
+    "deletePercent": 16.667
+  },
+  "seinfeld": {
+    "total": 6,
+    "deletes": 1,
+    "keeps": 5,
+    "deletePercent": 16.667
+  },
+  "AskHistorians": {
+    "total": 6,
+    "deletes": 0,
+    "keeps": 6,
+    "deletePercent": 0
+  },
+  "millionairemakers": {
+    "total": 6,
+    "deletes": 1,
+    "keeps": 5,
+    "deletePercent": 16.667
+  },
+  "AskMen": {
+    "total": 6,
+    "deletes": 1,
+    "keeps": 5,
+    "deletePercent": 16.667
+  },
+  "Amateur": {
+    "total": 6,
+    "deletes": 0,
+    "keeps": 6,
+    "deletePercent": 0
+  },
+  "PanamaPapers": {
+    "total": 6,
+    "deletes": 2,
+    "keeps": 4,
+    "deletePercent": 33.333
+  },
+  "Drugs": {
+    "total": 6,
+    "deletes": 3,
+    "keeps": 3,
+    "deletePercent": 50
+  },
+  "suspiciouslyspecific": {
+    "total": 5,
+    "deletes": 4,
+    "keeps": 1,
+    "deletePercent": 80
+  },
+  "clevercomebacks": {
+    "total": 5,
+    "deletes": 5,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "HydroHomies": {
+    "total": 5,
+    "deletes": 3,
+    "keeps": 2,
+    "deletePercent": 60
+  },
+  "AccidentalRacism": {
+    "total": 5,
+    "deletes": 4,
+    "keeps": 1,
+    "deletePercent": 80
+  },
+  "donaldglover": {
+    "total": 5,
+    "deletes": 4,
+    "keeps": 1,
+    "deletePercent": 80
+  },
+  "RussiaLago": {
+    "total": 5,
+    "deletes": 0,
+    "keeps": 5,
+    "deletePercent": 0
+  },
+  "hardcoreaww": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "Political_Tweets": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "Military": {
+    "total": 5,
+    "deletes": 1,
+    "keeps": 4,
+    "deletePercent": 20
+  },
+  "hacking": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "sewing": {
+    "total": 5,
+    "deletes": 3,
+    "keeps": 2,
+    "deletePercent": 60
+  },
+  "malelivingspace": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "KendrickLamar": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "KeepOurNetFree": {
+    "total": 5,
+    "deletes": 0,
+    "keeps": 5,
+    "deletePercent": 0
+  },
+  "The_Gaben": {
+    "total": 5,
+    "deletes": 0,
+    "keeps": 5,
+    "deletePercent": 0
+  },
+  "GreenBayPackers": {
+    "total": 5,
+    "deletes": 0,
+    "keeps": 5,
+    "deletePercent": 0
+  },
+  "worldbuilding": {
+    "total": 5,
+    "deletes": 3,
+    "keeps": 2,
+    "deletePercent": 60
+  },
+  "MyPeopleNeedMe": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "graphic_design": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "detroitlions": {
+    "total": 5,
+    "deletes": 0,
+    "keeps": 5,
+    "deletePercent": 0
+  },
+  "CatsStandingUp": {
+    "total": 5,
+    "deletes": 3,
+    "keeps": 2,
+    "deletePercent": 60
+  },
+  "LosAngeles": {
+    "total": 5,
+    "deletes": 0,
+    "keeps": 5,
+    "deletePercent": 0
+  },
+  "undelete": {
+    "total": 5,
+    "deletes": 3,
+    "keeps": 2,
+    "deletePercent": 60
+  },
+  "FrankOcean": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "PrettyGirls": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "malefashionadvice": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "osugame": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "cars": {
+    "total": 5,
+    "deletes": 1,
+    "keeps": 4,
+    "deletePercent": 20
+  },
+  "bannedfromclubpenguin": {
+    "total": 5,
+    "deletes": 0,
+    "keeps": 5,
+    "deletePercent": 0
+  },
+  "london": {
+    "total": 5,
+    "deletes": 0,
+    "keeps": 5,
+    "deletePercent": 0
+  },
+  "KerbalSpaceProgram": {
+    "total": 5,
+    "deletes": 2,
+    "keeps": 3,
+    "deletePercent": 40
+  },
+  "thedivision": {
+    "total": 5,
+    "deletes": 3,
+    "keeps": 2,
+    "deletePercent": 60
+  },
+  "JonTron": {
+    "total": 5,
+    "deletes": 5,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "scifi": {
+    "total": 5,
+    "deletes": 1,
+    "keeps": 4,
+    "deletePercent": 20
+  },
+  "Gunners": {
+    "total": 5,
+    "deletes": 1,
+    "keeps": 4,
+    "deletePercent": 20
+  },
+  "Warframe": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "4PanelCringe": {
+    "total": 4,
+    "deletes": 3,
+    "keeps": 1,
+    "deletePercent": 75
+  },
+  "CatTaps": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "ThriftStoreHauls": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "birdswitharms": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "LiverpoolFC": {
+    "total": 4,
+    "deletes": 2,
+    "keeps": 2,
+    "deletePercent": 50
+  },
+  "StardewValley": {
+    "total": 4,
+    "deletes": 3,
+    "keeps": 1,
+    "deletePercent": 75
+  },
+  "texas": {
+    "total": 4,
+    "deletes": 2,
+    "keeps": 2,
+    "deletePercent": 50
+  },
+  "dogpictures": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "france": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "TheDepthsBelow": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "lakers": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "gaybros": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "TittyDrop": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "uglyduckling": {
+    "total": 4,
+    "deletes": 3,
+    "keeps": 1,
+    "deletePercent": 75
+  },
+  "outside": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "SeattleWA": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "Atlanta": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "leafs": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "DeFranco": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "arresteddevelopment": {
+    "total": 4,
+    "deletes": 4,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Diablo": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "OutOfTheLoop": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "SkincareAddiction": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "WikiLeaks": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "Piracy": {
+    "total": 4,
+    "deletes": 3,
+    "keeps": 1,
+    "deletePercent": 75
+  },
+  "doctorwho": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "Fuck2016": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "nyc": {
+    "total": 4,
+    "deletes": 3,
+    "keeps": 1,
+    "deletePercent": 75
+  },
+  "Harambe": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "ass": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "Conservative": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "HappyEmbarrassedGirls": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "TalesFromRetail": {
+    "total": 4,
+    "deletes": 3,
+    "keeps": 1,
+    "deletePercent": 75
+  },
+  "60fpsporn": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "MostBeautiful": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "halo": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "nsfw_gifs": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "Bad_Cop_No_Donut": {
+    "total": 4,
+    "deletes": 1,
+    "keeps": 3,
+    "deletePercent": 25
+  },
+  "Seattle": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "buildapc": {
+    "total": 4,
+    "deletes": 2,
+    "keeps": 2,
+    "deletePercent": 50
+  },
+  "Battlefield": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "boston": {
+    "total": 4,
+    "deletes": 2,
+    "keeps": 2,
+    "deletePercent": 50
+  },
+  "Fallout": {
+    "total": 4,
+    "deletes": 0,
+    "keeps": 4,
+    "deletePercent": 0
+  },
+  "MorbidReality": {
+    "total": 4,
+    "deletes": 2,
+    "keeps": 2,
+    "deletePercent": 50
+  },
+  "freebies": {
+    "total": 4,
+    "deletes": 2,
+    "keeps": 2,
+    "deletePercent": 50
+  },
+  "Portland": {
+    "total": 4,
+    "deletes": 2,
+    "keeps": 2,
+    "deletePercent": 50
+  },
+  "notliketheothergirls": {
+    "total": 3,
+    "deletes": 3,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "ShitPostCrusaders": {
+    "total": 3,
+    "deletes": 3,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "marvelmemes": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "youngpeopleyoutube": {
+    "total": 3,
+    "deletes": 3,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "intermittentfasting": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "ihavesex": {
+    "total": 3,
+    "deletes": 3,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "waterniggas": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "terriblefacebookmemes": {
+    "total": 3,
+    "deletes": 3,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "wowthanksimcured": {
+    "total": 3,
+    "deletes": 3,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "beetlejuicing": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "democrats": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "misleadingthumbnails": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "Catloaf": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "Baking": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "Cyberpunk": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "math": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "Ohio": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "holdmyfries": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "Physics": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "Blep": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "succulents": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "torontoraptors": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "Thisismylifemeow": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "AnimalCrossing": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "HailCorporate": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "houston": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "minnesota": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "TheExpanse": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "Cooking": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "subaru": {
+    "total": 3,
+    "deletes": 3,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "TopMindsOfReddit": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "Fishing": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "pathofexile": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "psychology": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "blog": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "Michigan": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "steelers": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "Frugal_Jerk": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "EverythingScience": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "FIFA": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "learnprogramming": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "HillaryMeltdown": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "EngineeringStudents": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "hillaryclinton": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "the_meltdown": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "MilitaryPorn": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "google": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "linux": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "facebookwins": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "community": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "masseffect": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "MrRobot": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "CrusaderKings": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "Design": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "firefly": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "bicycling": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "melbourne": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "drawing": {
+    "total": 3,
+    "deletes": 2,
+    "keeps": 1,
+    "deletePercent": 66.667
+  },
+  "toosoon": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "absolutelynotme_irl": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "celebnsfw": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "keto": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "fuckolly": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "WatchItForThePlot": {
+    "total": 3,
+    "deletes": 0,
+    "keeps": 3,
+    "deletePercent": 0
+  },
+  "JusticePorn": {
+    "total": 3,
+    "deletes": 1,
+    "keeps": 2,
+    "deletePercent": 33.333
+  },
+  "HongKong": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "bigboye": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "insaneparents": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "confessions": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "Cringetopia": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "BokuNoHeroAcademia": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "gonewild": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "SpidermanPS4": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "hiking": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "thedonald": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "dontyouknowwhoiam": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "asianpeoplegifs": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "IsTodayFridayThe13th": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "howtonotgiveafuck": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "breakingbad": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "minnesotavikings": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "blackmirror": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "ethtrader": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "MasterReturns": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "PropagandaPosters": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "sysadmin": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "ThingsCutInHalfPorn": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "SaltLakeCity": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "Louisiana": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "Columbus": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "NorthCarolina": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "CrackWatch": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "Autos": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "WWII": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "newjersey": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "Meditation": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "rupaulsdragrace": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "babybigcatgifs": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "trailerparkboys": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Eminem": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "trashpandas": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "KingOfTheHill": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "CHIBears": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "howto": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "supremeclothing": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "Cinemagraphs": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "TropicalWeather": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "financialindependence": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "raining": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "WaterGuy12": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "coloringcorruptions": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "tennis": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "vancouver": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "CNNmemes": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "bostonceltics": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "slowcooking": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "mildlypenis": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "HadToHurt": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "elonmusk": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "MarchForNetNeutrality": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "HouseOfCards": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "OTMemes": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "McKaylaMaroney": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "adventuretime": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "AskOuija": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "headphones": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "Colorado": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "MarchForScience": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "stopsmoking": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "mexico": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "DC_Cinematic": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "redditsync": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "Guitar": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "beards": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "entertainment": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "ElderScrolls": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "shield": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "raspberry_pi": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "xkcd": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "forwardsfromgrandma": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "falcons": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "NYGiants": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "OkCupid": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Texans": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "bindingofisaac": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "CasualConversation": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "subredditoftheday": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "thenetherlands": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "dbz": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "the_schulz": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "Economics": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "KarmaCourt": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "battlefield_4": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "uwaterloo": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "MLS": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "modnews": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "webcomics": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "disney": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "WayOfTheBern": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "Astronomy": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "badtattoos": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "webdev": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "PeopleBeingJerks": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "androidcirclejerk": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "Shitty_Car_Mods": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "SiliconValleyHBO": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "arrow": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "Ohlympics": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "WastedGifs": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "TheGirlSurvivalGuide": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "bodybuilding": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "gonewild30plus": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "changemyview": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "GrandTheftAutoV": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "CGPGrey": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "CitiesSkylines": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "TrollYChromosome": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "self": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "milf": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "radiohead": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "Vive": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "GirlsMirin": {
+    "total": 2,
+    "deletes": 1,
+    "keeps": 1,
+    "deletePercent": 50
+  },
+  "betterCallSaul": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "Fitness": {
+    "total": 2,
+    "deletes": 2,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "wifesharing": {
+    "total": 2,
+    "deletes": 0,
+    "keeps": 2,
+    "deletePercent": 0
+  },
+  "perfectlycutscreams": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "the_danald": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "KamikazeByWords": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "shittymoviedetails": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "godtiersuperpowers": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "13or30": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "BreadStapledToTrees": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "TIHI": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "lostredditors": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "qualityrareinsults": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "dontputyourdickinthat": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "PoliticalVideo": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "dndmemes": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "FiftyFifty": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "TheMonkeysPaw": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "UrbanHell": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "fightporn": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Gamingcirclejerk": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "SmashBrosUltimate": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "bigtiddygothgf": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "toastme": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "jensenstrophycase": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "sequence": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "pitbulls": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "pitchforkemporium": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "spongebob": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "happycryingdads": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "TooAfraidToAsk": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "raimimemes": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "heck": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "youtube": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "ufc": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "VaporwaveAesthetics": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "badwomensanatomy": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "startrek": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "AmateurRoomPorn": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Watches": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "bayarea": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Twitch": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Cynicalbrit": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "cynicalbritofficial": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "starcraft": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "caps": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "brushybrushy": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "ilikthebred": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "TooGoodOfADesign": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "InterestingAsFuck": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "engrish": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "aviation": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "tech": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "puns": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "nosleep": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "cordcutters": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "barkour": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "MonsterHunter": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "StonerEngineering": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "perfectloops": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "keming": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "shockwaveporn": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "suns": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Colts": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "EaglesTrophyCase": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Keep_Track": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "RightInTheWallet": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "ArtefactPorn": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "medicalschool": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Jaguars": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "IDontWorkHereLady": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "YouSeeComrade": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "wokekids": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "blender": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "CatsAreAssholes": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "MachinePorn": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Cubers": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "unstirredpaint": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "AccidentalComedy": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Ripple": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "buffalobills": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Sacramento": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Suomi": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "christmas": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "49ers": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "kpop": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Alabama": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "trashyboners": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "hittableFaces": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "patientgamers": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "RhodeIsland": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "vegas": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "longisland": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Iowa": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "mississippi": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "philadelphia": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Georgia": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "northdakota": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "missouri": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Idaho": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Kentucky": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Maine": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "StLouis": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "massachusetts": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "wisconsin": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "SouthDakota": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "florida": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Arkansas": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Nebraska": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "kansas": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Charlotte": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Indiana": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "arizona": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "running": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "weedstocks": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Windows10": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "bertstrips": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "astrophotography": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "AndroidGaming": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Target": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "GooglePixel": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "netneutrality": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "casualiama": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "india": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "beta": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "frugalmalefashion": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "MagnifiedFaces": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "sportsarefun": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Competitiveoverwatch": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "IncelTears": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "humor": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "linuxmasterrace": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "TheOnion": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "anime": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "CityPorn": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "ProductPorn": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Amd": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "WTFgaragesale": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "girlskissing": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "LilyIvy": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "vinyl": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "solotravel": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "cowboys": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "destiny2": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "shutupandtakemymoney": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "The_Dotard": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "gatech": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "fakealbumcovers": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Boobies": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "crafts": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "delusionalartists": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "pawg": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "MarchAgainstNazis": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "FireGuy12": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Veterans": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Anarchism": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "coaxedintoasnafu": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "vexillologycirclejerk": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "frankthetank": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "aSongOfMemesAndRage": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Cocofleshlights": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "awfuleyebrows": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "TinyTits": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "fullmoviesonyoutube": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Awww": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "punchableface": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "LinkinPark": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "ImaginaryMindscapes": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "u_Shitty_Watercolour": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "WtWFotMJaJtRAtCaB": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "minimalism": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "paypal": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "cute": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "glitch_art": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "rugbyunion": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "NetflixViaVPN": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "TIL_Uncensored": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "WordAvalanches": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "exchristian": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "privacy": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "FilthyFrank": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Sense8": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "emojipasta": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "germany": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "army": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "dirtysmall": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "AlienBlue": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "samuraijack": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "The_NewDonald": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "redditmobile": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "GoNets": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "TalesFromYourServer": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "seinfeldgifs": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "chelseafc": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "CODZombies": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "California": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "dogsonroofs": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Smite": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "AdPorn": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "gorillaz": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Kappa": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "JessicaNigri": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "HumanPorn": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "FireEmblemHeroes": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "BobsBurgers": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "southafrica": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "ImGoingtoGulagforThis": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "StraightGirlsPlaying": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "joker": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "3DS": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Infographics": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Frisson": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "SourceFed": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "WrestleWithThePlot": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "CorporateFacepalm": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "LSD": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "nocontext": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Rainmeter": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "gaymers": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "AsianBeauty": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "freeuse": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Saints": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "3Dprinting": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "starbucks": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "oklahoma": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Punny": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Filmmakers": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "washingtondc": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "TNG": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Redskins": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "PlayfulPikachu": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "vegan": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "picturesofiansleeping": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "girlsinyogapants": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "lewronggeneration": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "electronic_cigarette": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "amen": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "lawofattraction": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "TrueOffMyChest": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "isaidyes": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Buddhism": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "whitebeauty": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "BDSMGW": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "fucklordtuts": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "techsupportmacgyver": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "simpsonsdidit": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "windowsphone": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "thick": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "BollywoodRealism": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "China": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "titanfall": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "FreeHans": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "web_design": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "starcitizen": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "THE_PACK": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "iiiiiiitttttttttttt": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "TheNewRight": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "ThanksObama": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "DCcomics": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Mr_Trump": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "LipsThatGrip": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "mlb": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "AtlantaTV": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "CHICubs": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "warriors": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "NintendoNX": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Torontobluejays": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "writing": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "OnOff": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "urbanexploration": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "grilledcheese": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "newzealand": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "oneplus": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "unexpectedjihad": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "singapore": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "comcastnazi": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "topofreddit": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Foodforthought": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Survival": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "porninfifteenseconds": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "sandiego": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "MakingaMurderer": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "microgrowery": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "onetruegod": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "apocalympics2016": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "skateboarding": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "asstastic": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Chargers": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "TheSilphRoad": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "wallpaper": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "FlashTV": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "pokemongoyellow": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Eder": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "portugal": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "cumsluts": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Dallas": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "randomsexiness": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Iceland": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "northernireland": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "Cleveland": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "clevelandcavs": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "wec": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "NetflixBestOf": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "progresspics": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "darksouls3": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "Eve": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "tightdresses": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "blackops3": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  },
+  "GrassrootsSelect": {
+    "total": 1,
+    "deletes": 1,
+    "keeps": 0,
+    "deletePercent": 100
+  },
+  "oculus": {
+    "total": 1,
+    "deletes": 0,
+    "keeps": 1,
+    "deletePercent": 0
+  }
+}

@@ -10,5 +10,10 @@
 npm-debug.log
 node_modules
 *.sublime-workspace
-security/upgrade_reports_*/*.log
-pm2/.tmp*/*
+
+#ignore generated crap
+data/comment-full/*.json
+data/comments-combined.json
+data/comment-body/*.json
+data/processed-combined.json
+data/processed-combined-flat.json

@@ -3,9 +3,7 @@
   "version": "0.0.1",
   "description": "Analysis of data from /r/RedditMinusMods",
   "main": "src/farm.js",
-  "scripts": {
-    "test": "mocha ./test/"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aphix/reddit-minus-mods-analysis.git"
@@ -21,15 +19,12 @@
     "url": "https://github.com/aphix/reddit-minus-mods-analysis/issues"
   },
   "homepage": "https://github.com/aphix/reddit-minus-mods-analysis#readme",
-  "devDependencies": {
-    "mocha": "^6.2.0",
-    "puppeteer": "^1.19.0"
-  },
+  "devDependencies": {},
   "dependencies": {
     "@zeit/fetch": "^5.1.0",
     "async-sema": "^3.0.1",
-    "jquery": "^3.4.1",
-    "p-retry": "^4.1.0",
-    "p-timeout": "^3.1.0"
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0",
+    "progress": "^2.0.3"
   }
 }
