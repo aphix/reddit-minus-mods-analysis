@@ -22,6 +22,7 @@
   "devDependencies": {},
   "dependencies": {
     "@zeit/fetch": "^5.1.0",
+    "agentkeepalive": "^4.0.2",
     "async-sema": "^3.0.1",
     "lodash": "^4.17.15",
     "node-fetch": "^2.6.0",
